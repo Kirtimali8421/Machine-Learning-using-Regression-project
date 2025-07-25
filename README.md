@@ -1,4 +1,5 @@
-# Machine-Learning-using-Regression-project
+# Machine-Learning-using-project
+
 🌾 Predicting Crop Yield and Diseases using Machine Learning
 
 This project leverages machine learning techniques to help farmers and agricultural experts predict crop yield and detect potential diseases early, enabling smarter decision-making and improved food security.
