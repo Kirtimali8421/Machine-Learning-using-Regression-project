@@ -1,4 +1,4 @@
-# Machine-Learning-using-project
+# Machine-Learning-project
 
 🌾 Predicting Crop Yield and Diseases using Machine Learning
 
