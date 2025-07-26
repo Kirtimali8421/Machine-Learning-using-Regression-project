@@ -4,4 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 flask
-streamlit
+scikit-learn==1.2.2
+
